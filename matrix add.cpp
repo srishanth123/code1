@@ -1,5 +1,6 @@
 #include <stdio.h>
 int search(int arr[], int n,int x)
+//int main() 
 {
 	int i;
 	printf("\n enter the element to be searched");
